@@ -18,19 +18,19 @@ Captured and analyzed network traffic using Wireshark.
 
 ### Protocols Captured
 1. **HTTP**
-   - Source IP: 2401:4900:6677:64b1:bc37:6450:9523:f6a3
-   - Destination IP: 2603:c021:4004:207a:50bf:11ec:5c55:f8aa
+   - Source IP: 2401:****:****:****:****:****:****:****
+   - Destination IP: 2603:****:****:****:****:****:****:****
    - Method: POST
    - Host: example.com
 
 2. **DNS**
-   - Source IP: 192.168.24.215
-   - Destination IP: 192.168.24.206
+   - Source IP: 192.***.**.***
+   - Destination IP: 192.***.**.***
    - Query Name: chatgpt.com
 
 3. **TCP**
-   - Source IP: 2606:4700:83b2:7cbc:c2fd:370:5ff2:75c4
-   - Destination IP: 2401:4900:6677:64b1:bc37:6450:9523:f6a3
+   - Source IP: 2606:****:****:****:****:****:****:****
+   - Destination IP: 2401:****:****:****:****:****:****:****
    - TCP Flags: ACK
   
 
